@@ -12,3 +12,4 @@
 -  :star: Fun fact: I used to create videos using after effects when I was younger as a hobby.
 -  :star: Fun fact 2: I was able to configure a pc at home by myself.
 
+
