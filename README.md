@@ -9,5 +9,6 @@ This is some info about me:
 -  :question: I’m looking to improve my skills in switch configuation and web development.
 -  :envelope_with_arrow: How to reach me: lowell.toncel@gmail.com
 -  Pronouns: He/Him
--  :star: Fun fact: I used to create videos using after effects when I was younger as a hobby as well as being able to configure a pc at home by myself.
+-  :star: Fun fact: I used to create videos using after effects when I was younger as a hobby.
+-  :star: Fun fact 2: I was able to configure a pc at home by myself.
 
